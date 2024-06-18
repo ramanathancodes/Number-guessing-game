@@ -2,7 +2,7 @@
 Task:    
 +++++
 
- Below are the steps:
+Below are the steps:
 
 Build a Number guessing game, in which the user selects a range.
 Let’s say User selected a range, i.e., from A to B, where A and B belong to Integer.
@@ -23,7 +23,8 @@ If the User inputs range, let’s say from 1 to 100. And compiler randomly selec
 Algorithm:
 ++++++++++
 
- Below are the Steps:
+Below are the Steps:
+
 User inputs the lower bound and upper bound of the range.
 The compiler generates a random integer between the range and store it in a variable for future references.
 For repetitive guessing, a while loop will be initialized.
